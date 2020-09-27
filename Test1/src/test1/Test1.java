@@ -9,12 +9,12 @@ package test1;
  *
  * @author Hamid Hussain 
  */
-public class Test1 {
+public class Test1{
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public  void main(String[] args) {
         System.out.print(" I love a programmer\n" +
 "He is always there making codes\n" +
 "On different ways in order\n" +
@@ -35,9 +35,9 @@ public class Test1 {
 "Sometimes I want you to\n" +
 "Be brave enough to just admit\n" +
 "\n" +
-"That I'm something to you\n" +
+"That I'm  something to you\n" +
 "Not a computer you play with\n" +
-"That your feelings are true\n" +
+"That yours feelings are true\n" +
 "There's no condition that you need\n" +
 "\n" +
 "I am afraid to feel\n" +
