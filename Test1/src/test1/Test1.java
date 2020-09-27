@@ -14,11 +14,11 @@ public class Test1{
     /**
      * @param args the command line arguments
      */
-    public  void main(String[] args) {
+    public void main(String[] args) {
         System.out.print(" I love a programmer\n" +
 "He is always there making codes\n" +
 "On different ways in order\n" +
-"To show how much he loves you so\n" +
+"Too show how much he loves you so\n" +
 "\n" +
 "There are times when he would\n" +
 "Just throw some complex hints at me\n" +
